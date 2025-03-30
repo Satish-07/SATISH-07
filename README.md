@@ -1,5 +1,3 @@
-## About Me
-
 <h3 align="left">Hey, Everyone! 👋 Myself Satish. </h3>
 
 
